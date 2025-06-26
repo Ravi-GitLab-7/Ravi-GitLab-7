@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ravi-GitLab-7&show_icons=true&locale=en" alt="Ravi-GitLab-7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi-GitLab-7&" alt="Ravi-GitLab-7" /></p>
