@@ -9,7 +9,7 @@
 
 - 💬 Ask me about *I’m a confident individual*
 
-- 📫 How to reach me *work.ravi91@gmail.com*
+- 📫 How to reach me *ravi9142@zohomail.in*
 
 - ⚡ Fun fact *I am funny😇*
 
