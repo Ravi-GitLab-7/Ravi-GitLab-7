@@ -17,7 +17,6 @@ Currently focused on: Java • DSA • Spring Boot • REST APIs • Databases �
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ravi-GitLab-7&icon=5&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <h2 align="center">🐍Watch snake eating my GitHub Contributions</h2>
