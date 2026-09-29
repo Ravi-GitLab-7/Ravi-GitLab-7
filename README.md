@@ -20,3 +20,22 @@ Currently focused on: Java • DSA • Spring Boot • REST APIs • Databases �
 [![](https://komarev.com/ghpvc/?username=Ravi-GitLab-7&icon=5&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">🐍Watch snake eating my GitHub Contributions</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Ravi-GitLab-7/Ravi-GitLab-7/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Ravi-GitLab-7/Ravi-GitLab-7/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Ravi-GitLab-7/Ravi-GitLab-7/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
